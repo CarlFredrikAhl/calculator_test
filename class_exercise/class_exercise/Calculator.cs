@@ -31,6 +31,10 @@ namespace class_exercise
             return tempResult;
         }
 
+        //sdlnsdg
+        //lsglsdg
+        //lsnglk
+        //lnsgls
         public static double Subtraction(double number)
         {
             result -= number;
