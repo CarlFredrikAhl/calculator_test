@@ -15,7 +15,8 @@ namespace class_exercise
 
             return tempResult;
         }
-
+        
+        //Test2
         public static double Addition(double number)
         {
             result += number;
