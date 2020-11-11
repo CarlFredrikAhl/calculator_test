@@ -8,6 +8,7 @@ namespace class_exercise
     {
         public static double result;
 
+        //Test
         public static double Addition(double number1, double number2)
         {
             double tempResult = number1 + number2;

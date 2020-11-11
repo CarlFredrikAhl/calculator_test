@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlf\\source\\repos\\class_exercise\\class_exercise\\class_exercise.csproj",
+      "projectUniqueName": "C:\\Users\\carlf\\Source\\Repos\\calculator_test\\class_exercise\\class_exercise\\class_exercise.csproj",
       "projectName": "class_exercise",
-      "projectPath": "C:\\Users\\carlf\\source\\repos\\class_exercise\\class_exercise\\class_exercise.csproj",
+      "projectPath": "C:\\Users\\carlf\\Source\\Repos\\calculator_test\\class_exercise\\class_exercise\\class_exercise.csproj",
       "packagesPath": "C:\\Users\\carlf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlf\\source\\repos\\class_exercise\\class_exercise\\obj\\",
+      "outputPath": "C:\\Users\\carlf\\Source\\Repos\\calculator_test\\class_exercise\\class_exercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlf\\AppData\\Roaming\\NuGet\\NuGet.Config",
